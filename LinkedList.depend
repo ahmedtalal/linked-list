@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1608592183 source:d:\collage\terms1\ds\ds_projects\linkedlist\main.c
+	<stdio.h>
+	<stdlib.h>
+	"list.h"
+
+1608592303 source:d:\collage\terms1\ds\ds_projects\linkedlist\list.c
+	"list.h"
+	<stddef.h>
+
+1608589507 d:\collage\terms1\ds\ds_projects\linkedlist\list.h
+
